@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "boxen": "^1.2.1",
+    "chalk": "^2.1.0",
+    "got": "^7.1.0",
+    "meow": "^3.7.0",
+    "tinyurl": "^1.1.2"
+  },
+  "name": "rawgit-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Rawgit node client.",
+  "repository": "https://github.com/rawnly/rawgit-client",
+  "author": "Federico Vitale (rawnly.com) <fedevitale99@gmail.com>",
+  "bin": {
+    "rawgit": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help",
+    "link": "sudo npm link",
+    "git": "git add *; git commit -a -m 'New version incoming!'; git push -u origin master; ",
+    "publish": "np"
+  }
+}
