@@ -16,7 +16,7 @@ or **yarn**
 ```
 
 ## Usage
-![screen shot 2017-06-12 at 10 49 40](https://user-images.githubusercontent.com/16429579/27026078-e07472da-4f5c-11e7-8b14-93f5cba188ea.png)
+![usage](https://user-images.githubusercontent.com/16429579/29721073-14332f64-89bc-11e7-9c53-a463f656a3a4.png)
 ```bash
     Rawgit node client.
 
