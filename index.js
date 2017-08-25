@@ -23,6 +23,7 @@ const boxstyle =  {
 }
 
 const cli = new Meow(chalk`
+    Usage: rawgit <url> [flags]
 
     {yellow --dev}           {dim Output the development url.}
     {yellow --build}         {dim Output the build url.}
