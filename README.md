@@ -1,4 +1,4 @@
-# LMGTFY-CLI
+# RAWGIT-CLI
 
 ![placeholder](https://user-images.githubusercontent.com/16429579/29720898-9559f4d4-89bb-11e7-964d-65c075bc5d69.png)
 > [Rawgit][home] - Client
